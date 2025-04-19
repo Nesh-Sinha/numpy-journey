@@ -29,12 +29,18 @@ git
 **File**: `numpy_L2.py`
 
 ---
+### ✅ Lecture 3: Advanced Operations & Data Visualization
+Sales data analysis using NumPy arrays
+- Aggregation functions: sum, mean, min, max
+- Cumulative sum with cumsum
+- Visualizing average cumulative sales using Matplotlib
+- Vector operations: addition, multiplication, dot product, angle
+- Vectorized string operations with np.vectorize
+- Broadcasting example with monthly averages
 
-## 🚀 More Coming Soon:
-- Broadcasting and operations
-- Aggregations
-- Advanced filtering
-- Real-world mini-projects using NumPy
+**File**: `numpy_L3.py`
+
+
 
 ---
 
@@ -43,4 +49,5 @@ git
 .
 ├── numpy_L1.py
 ├── numpy_L2.py
+├── numpy_L3.py
 └── README.md
