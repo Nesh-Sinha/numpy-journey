@@ -44,10 +44,23 @@ Sales data analysis using NumPy arrays
 
 ---
 
+
+### ✅ Lecture 4: File Handling and Image Processing with NumPy
+- Saving and loading NumPy arrays using .npy files (np.save, np.load)
+- Converting an image to a NumPy array and saving it
+- Understanding image data (shape, format, size, mode)
+- Visualizing images using Matplotlib
+- Basic image manipulation: color inversion (creating a dark mode logo)
+- Using PIL (Python Imaging Library) to load image files
+
+**File**: `numpy_L4.py`
+
+
 ## 📂 Folder Structure
 ```bash
 .
 ├── numpy_L1.py
 ├── numpy_L2.py
 ├── numpy_L3.py
+├── numpy_L4.py
 └── README.md
